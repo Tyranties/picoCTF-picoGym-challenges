@@ -16,7 +16,7 @@ Using tabcomplete in the Terminal will add years to your life, esp. when dealing
 
 ## Solution
 
-Unzip the compressed file and then navigate using tab until you see a file. Then open the file using`cat` and the flag should be somewhere in the file.
+Unzip the compressed file and then navigate using tab until you see a file. Then open the file using `cat` and the flag should be somewhere in the file.
 
 ## Flag
 
