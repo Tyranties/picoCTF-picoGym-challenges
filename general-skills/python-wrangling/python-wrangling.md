@@ -18,7 +18,7 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run 
 
 ## Solution
 
-In a Linux terminal, type `python3 -d ende.py flag.txt.en`. Then enter the password found in `pw.txt`. The flag should then be shown in the terminal.
+In a Linux terminal, type `python3 -d ende.py flag.txt.en`. Enter the password found in `pw.txt` and the flag should then be shown in the terminal.
 
 ## Flag
 
