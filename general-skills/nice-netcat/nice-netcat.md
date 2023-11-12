@@ -67,4 +67,11 @@ The output for me was:
 10
 ```
 
+The numbers represent ASCII digits in the form of decimal numbers. After converting all digits to ASCII characters you will get the flag.
+
+`netcat.py` converts all ASCII digits into ASCII characters.
+`netcat-output.txt` is a text file containing the netcat output.
+
 ## Flag
+
+picoCTF{g00d_k1tty!\_n1c3_k1tty!\_9b3b7392}
