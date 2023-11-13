@@ -8,13 +8,12 @@
 
 ## Description
 
-Unzip this archive and find the flag.
-
-- [Download zip file](https://artifacts.picoctf.net/c/503/big-zip-files.zip)
+How to automate tasks to run at intervals on linux servers?
+Additional details will be available after launching your challenge instance.
 
 ## Hints
 
-1. Can grep be instructed to look at every file in a directory and its subdirectories?
+(None)
 
 ## Solution
 
