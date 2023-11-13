@@ -18,7 +18,7 @@ Unzip this archive and find the flag.
 
 ## Solution
 
-Unzip the file and search for the flag using the search bar or with `grep` on a Linux terminal to search for the flag.
+Unzip the file and search for the flag using the search bar or with `grep` on a Linux terminal to search for the flag using the search term "picoCTF".
 
 ## Flag
 
