@@ -80,7 +80,7 @@ if the_music == a_guitar:
       print("That ain't it, Chief")
 ```
 
-Run the modified lyrics.py program with the inputs `the_music = 10` and `the_rythem = 170` to reveal decimal values. These values can be converted to ASCII characters using a simple script, where we append all decimal values into an array `values` and do the following:
+Run the modified lyrics.py program with the inputs `the_music = 10` and `the_rhythm = 170` to reveal decimal values. These values can be converted to ASCII characters using a simple script, where we append all decimal values into an array `values` and do the following:
 
 ```python
 ascii_characters = [chr(value) for value in values]
