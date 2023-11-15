@@ -4,5 +4,5 @@ My solutions to the [picoCTF picoGym Challenges](https://play.picoctf.org/practi
 
 ## Challenges
 
-[General Challenges](/general-skills/general-skills.md)
-[Web Exploitation](/web-exploitation/web-exploitation.md)
+- [General Challenges](/general-skills/general-skills.md)
+- [Web Exploitation](/web-exploitation/web-exploitation.md)
