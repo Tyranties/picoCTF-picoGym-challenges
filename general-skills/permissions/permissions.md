@@ -17,7 +17,7 @@ Can you login and read the root file?
 
 ## Hints
 
-(None)
+1. What permissions do you have?
 
 ## Solution
 
