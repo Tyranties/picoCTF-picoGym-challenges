@@ -1,4 +1,4 @@
-# Permissions
+# repetitions
 
 ## Information
 
@@ -17,7 +17,7 @@ Download the file [here](https://artifacts.picoctf.net/c/475/enc_flag).
 
 ## Solution
 
-The contents of the file is encrypted using Base64. Decrypting the string multiple times with a [decoder](https://www.base64decode.org/) will reveal the flag.
+The contents of the file are encrypted using Base64. Decrypting the string multiple times with a [decoder](https://www.base64decode.org/) will reveal the flag.
 
 ## Flag
 
