@@ -2,7 +2,7 @@
 
 All challenges can be found [here](https://play.picoctf.org/practice?category=5&page=1&solved=0).
 
-There are a total of 42 challenges and 4810 picoGym points you can earn.
+There are a total of 42 challenge.
 
 Most challenges revolve around using a Linux terminal, Python and require basic computer science and programming knowledge.
 
