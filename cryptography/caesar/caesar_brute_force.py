@@ -1,5 +1,6 @@
 import re
 
+
 def brute_force_caesar_cipher(ciphertext: str) -> None:
     for shift in range(26):
         decrypted_text = ''
@@ -13,6 +14,7 @@ def brute_force_caesar_cipher(ciphertext: str) -> None:
                 decrypted_text += char
         print(f"Shift {shift}: {decrypted_text}")
 
+
 def get_ciphertext() -> str:
     with open("ciphertext", "r") as file:
         contents = file.read()
@@ -20,9 +22,11 @@ def get_ciphertext() -> str:
         ciphertext = ''.join(matches)
     return ciphertext
 
+
 def main():
     ciphertext = get_ciphertext()
     brute_force_caesar_cipher(ciphertext)
+
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,6 @@
 from typing import List
 
+
 def decrypt(numbers: List[int]) -> str:
     plaintext = ""
     for number in numbers:
@@ -12,16 +13,19 @@ def decrypt(numbers: List[int]) -> str:
             plaintext += '_'
     return plaintext
 
+
 def get_message() -> List[int]:
     with open("message.txt", "r") as file:
         contents = file.read()
     numbers = contents.split()
     return [int(number) for number in numbers]
 
+
 def main():
     numbers = get_message()
     plaintext = decrypt(numbers)
     print("Decrypted Message:", plaintext)
+
 
 if __name__ == "__main__":
     main()
