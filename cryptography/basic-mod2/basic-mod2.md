@@ -46,4 +46,4 @@ Repeat for all numbers and concatenate the resulting character and you will get 
 
 ## Flag
 
-picoCTF{crossingtherubiconvfhsjkou}
+picoCTF{1NV3R53LY_H4RD_8A05D939}
